@@ -1,0 +1,24 @@
+.root-45
+{   font: 10px monstserrat,sans-serif;
+    background-color: white !important;
+}
+
+.field-48{
+    opacity: 0.6;
+    border: none;
+}
+.selectedImageWrapper-51{
+    opacity: 1;
+}
+.field-60{
+    border:none;
+}
+.field-60::before,.field-60::after{
+    display:none;
+}
+.field-48::before{
+    display: none;
+}
+label.ms-ChoiceField.is-checked.ms-ChoiceField-ms-ChoiceField-field-image.field-6-::before,label.ms-ChoiceField.is-checked.ms-ChoiceField-ms-ChoiceField-field-image.field-6-::after{
+    display: none;
+}

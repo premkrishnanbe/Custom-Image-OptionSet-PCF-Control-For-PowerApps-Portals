@@ -1,0 +1,19 @@
+2021-08-16 12:16:04.637 - Info	
+Packing C:\Users\premkumar.krishnan\Documents\OptionSet_Pcf_Control_Final_Build\CustomOptionSet_Build7\obj\Release\Metadata to bin\Release\CustomOptionSet_Build7.zip
+
+2021-08-16 12:16:04.651 - Info	Processing Component: Entities
+2021-08-16 12:16:04.653 - Info	Processing Component: Roles
+2021-08-16 12:16:04.657 - Info	Processing Component: Workflows
+2021-08-16 12:16:04.658 - Info	Processing Component: FieldSecurityProfiles
+2021-08-16 12:16:04.659 - Info	Processing Component: Templates
+2021-08-16 12:16:04.660 - Info	Processing Component: EntityMaps
+2021-08-16 12:16:04.661 - Info	Processing Component: EntityRelationships
+2021-08-16 12:16:04.666 - Info	Processing Component: OrganizationSettings
+2021-08-16 12:16:04.670 - Info	Processing Component: optionsets
+2021-08-16 12:16:04.671 - Info	Processing Component: CustomControls
+2021-08-16 12:16:04.676 - Info	 - CustomImgOptionSetPcfControl.CustomImgOptionSetIcons
+2021-08-16 12:16:04.685 - Info	Processing Component: SolutionPluginAssemblies
+2021-08-16 12:16:04.689 - Info	Processing Component: EntityDataProviders
+2021-08-16 12:16:04.785 - Info	
+Managed Pack complete.
+

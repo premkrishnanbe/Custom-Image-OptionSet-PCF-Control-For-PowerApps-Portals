@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<manifest>
+  <control namespace="CustomImgOptionSetPcfControl" constructor="CustomImgOptionSetIcons" version="0.0.1" display-name-key="Custom Image OptionSet PCF Control" description-key="CustomImgOptionSetIcons description" control-type="standard" preview-image="img/preview.png" api-version="1.3.2">
+    <property name="optionset" display-name-key="Primary Optionset" description-key="Select Optionset" of-type="OptionSet" usage="bound" required="true"/>
+    <property name="icon1" display-name-key="Icon #1" description-key="Icon #1, (URL)" of-type="SingleLine.Text" usage="input" required="false" default-value="https://etr-dev.powerappsportals.com/Icon_dim_lights"/>
+    <property name="icon2" display-name-key="Icon #2" description-key="Icon #2, (URL)" of-type="SingleLine.Text" usage="input" required="false" default-value="https://etr-dev.powerappsportals.com/Icon_no_power"/>
+    <property name="icon3" display-name-key="Icon #3" description-key="Icon #3, (URL)" of-type="SingleLine.Text" usage="input" required="false" default-value="https://etr-dev.powerappsportals.com/Icon_flickering_lights"/>
+    <property name="icon4" display-name-key="Icon #4" description-key="Icon #4, (URL)" of-type="SingleLine.Text" usage="input" required="false" default-value="https://etr-dev.powerappsportals.com/Icon_safety_hazards"/>
+    <resources>
+      <code path="bundle.js" order="1"/>
+      <css path="css/OptionSetIcons.css" order="1"/>
+      <resx path="strings/CustomImgOptionSetIcons.1033.resx" version="1.0.0"/>
+    </resources>
+    <built-by name="pac" version="1.8.6"/>
+  </control>
+</manifest>

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9UZui374qKxBmXI/nWVFTfKuGg5ieasDBEgUCJcF0fQcb7fxGIUtlKlCUhW3NLesb7GjyI30+/YkPeAUlli6hQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\premkumar.krishnan\\Documents\\OptionSet_Pcf_Control_Final_Build\\CustomOptionSet_Build7\\CustomOptionSet_Build7.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\premkumar.krishnan\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\premkumar.krishnan\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\premkumar.krishnan\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.8.6\\microsoft.powerapps.msbuild.pcf.1.8.6.nupkg.sha512",
+    "C:\\Users\\premkumar.krishnan\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.8.6\\microsoft.powerapps.msbuild.solution.1.8.6.nupkg.sha512"
+  ],
+  "logs": []
+}
